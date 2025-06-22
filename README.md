@@ -23,6 +23,10 @@ The core of the project relies on:
 * Python 3.x
 * A webcam (for local real-time execution) or a video file.
 
+## Demo Video
+
+Watch the demo video here: [AI-Powered Push-Up Counter Demo](https://drive.google.com/file/d/1KmEe3fMgXK9wJHf4zUQSW88MoJActzm1/view?usp=sharing)
+
 
 
 ## Usage
