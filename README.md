@@ -23,30 +23,7 @@ The core of the project relies on:
 * Python 3.x
 * A webcam (for local real-time execution) or a video file.
 
-### Installation Steps
 
-1.  **Clone the Repository (or download the files):**
-    ```bash
-    git clone [https://github.com/YourGitHubUsername/Pushup-Counter-Project.git](https://github.com/YourGitHubUsername/Pushup-Counter-Project.git)
-    cd Pushup-Counter-Project
-    ```
-    (Replace `YourGitHubUsername` and `Pushup-Counter-Project` with your actual details)
-
-2.  **Create a Virtual Environment (Recommended):**
-    ```bash
-    python -m venv venv
-    # On Windows
-    .\venv\Scripts\activate
-    # On macOS/Linux
-    source venv/bin/activate
-    ```
-
-3.  **Install Dependencies:**
-    Install all required Python packages using pip:
-    ```bash
-    pip install -r requirements.txt
-    ```
-    This will install `opencv-python`, `numpy`, `cvzone`, and `mediapipe`.
 
 ## Usage
 
